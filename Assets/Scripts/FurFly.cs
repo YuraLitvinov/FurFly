@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FurFlyManager : MonoBehaviour
+public class FurFly : MonoBehaviour
 {
     Animator anim;
     Transform transform;
